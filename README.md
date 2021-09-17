@@ -2,6 +2,7 @@
 
 
 Prideta
+
 template<size_t N>
 std::string bitset_to_string(std::bitset<N> bits) {
 	static_assert(N % CHAR_BIT == 0, L);
