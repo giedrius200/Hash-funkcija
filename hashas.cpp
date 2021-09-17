@@ -6,7 +6,15 @@
 using namespace std;
 
 string paverstihex(string& s, bool upper_case)
-{
+{ 		
+		
+		for (int i = 0; i < 256; i++) {
+			s.append(pridedas);
+		}
+	
+		for (int i = 0; i < s.length(); ++i) {
+			bitset<64> bs4(s[i]);
+		}
 		static const char hex_skaiciai[] = "0123456789ABCDEF";
 
 		std::string output;
