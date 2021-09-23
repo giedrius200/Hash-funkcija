@@ -1,5 +1,5 @@
 # Blockchain
-** Pridėta bitset to string funkcija, patobulintas bitset **
+**Pridėta bitset to string funkcija, patobulintas bitset**
 ```
 template<size_t N>
 std::string bitset_to_string(std::bitset<N> bits) {
