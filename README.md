@@ -15,8 +15,8 @@
 | ------------- | ------------- |
 | taip  | 74616970BBF6CDB0A4EBC3B2B1E2CDAAB1EFD6A9A0F0CBA7A2E5C2A9BAE5CFB2  |
 | taip  | 74616970BBF6CDB0A4EBC3B2B1E2CDAAB1EFD6A9A0F0CBA7A2E5C2A9BAE5CFB2  |
-- [x] Iš hash funkcijos rezultato (output'o) praktiškai neįmanoma atgaminti pradinio įvedimo (input'o)\
-Naudojamos bitset XOR operacijos, pakeičiamos bitų vietos\
+- [x] Iš hash funkcijos rezultato (output'o) praktiškai neįmanoma atgaminti pradinio įvedimo (input'o)
+Naudojamos bitset XOR operacijos, pakeičiamos bitų vietos
 ```
 bitset<8> bs4(s[i]);
 bitset<8> bar(stringas[i]);
