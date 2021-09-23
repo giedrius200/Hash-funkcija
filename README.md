@@ -4,11 +4,13 @@
 - [x] greitas, efektyvus :tada:
 - [x] Maišos funkcijos įėjimas (angl. input) gali būti bet kokio dydžio simbolių eilutė
 - [x] Maišos funkcijos išėjimas (angl. output) visuomet yra to paties, fiksuoto, dydžio rezultatas
+
 | Input  | Output |
 | ------------- | ------------- |
 | labas  | 6C61626173DBF6E1F4B8DFE3FAE5AAD9EEE9EFBED9F4FCEBABC2E5EEEDA6D1EF  |
 | sveiki  | 737665696B69A7AAFDD4D8CBABAAF5C2C5CEADB3E6CDDCD0A3BFE6C5CACDA6B9  |
 - [x] Maišos funkcija yra deterministinė
+
 | Input  | Output |
 | ------------- | ------------- |
 | taip  | 74616970BBF6CDB0A4EBC3B2B1E2CDAAB1EFD6A9A0F0CBA7A2E5C2A9BAE5CFB2  |
