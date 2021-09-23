@@ -3,7 +3,9 @@
 - [x] nepriklausomai nuo Input'o, Output'ai visada yra vienodo dydžio, o to paties failo hash'as yra tas pats
 - [x] atsparumas kolizijai
 - [x] greitas, efektyvus :tada:
-
+**Nepavykę dalykai:**
+Vidurinėje pozicijoje pakeitus simbolį hashas liko tas pats
+Nepavyko susigeneruoti 100k simbolių eilučių kur skirtųsi tik vienu simboliu
 ## **Pirma užduotis**
 **Du failai, skirtingas vienas simbolis**\
 ![This is an image](/assets/vienas.png)\
