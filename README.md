@@ -1,5 +1,6 @@
 # Blockchain
 ## **Išvados**
+___
 - [x] nepriklausomai nuo Input'o, Output'ai visada yra vienodo dydžio, o to paties failo hash'as yra tas pats
 - [x] greitas, efektyvus :tada:
 - [x] Maišos funkcijos įėjimas (angl. input) gali būti bet kokio dydžio simbolių eilutė
@@ -30,6 +31,8 @@ bitset<8> rez(bs3 ^= bar);
 **Naudoti puslapiai:**
 - [***String generavimui***](http://www.unit-conversion.info/texttools/random-string-generator/)
 - [***Bitset operations***](https://www.cplusplus.com/reference/bitset/bitset/operators/)
+
+___
 
 ## **Pirma užduotis**
 - **Du failai, skirtingas vienas simbolis**
