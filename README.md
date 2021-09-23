@@ -15,7 +15,7 @@
 
 ## **Antra užduotis**
 **Hashuoti konstitucija.txt failą užtruko:**\
-![This is an image](/assets/konsti.ping)\
+![This is an image](/assets/konsti.ping)
 
 ## **Trečia užduotis**
 **Ar sutampa hashai su 25 000 po 500 simbolių:**\
