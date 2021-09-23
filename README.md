@@ -11,7 +11,7 @@
 ![This is an image](/assets/skiriasi1.png)\
 ![This is an image](/assets/skiriasi2.png)\
 **Tuščias failas**\
-![This is an image](/assets/tusciasfailas.png)\
+![This is an image](/assets/tusciasfailas.png)
 
 ## **Antra užduotis**
 **Hashuoti konstitucija.txt failą užtruko:**\
