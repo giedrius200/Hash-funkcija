@@ -3,7 +3,7 @@
 - [x] nepriklausomai nuo Input'o, Output'ai visada yra vienodo dydžio, o to paties failo hash'as yra tas pats
 - [x] greitas, efektyvus :tada:
 - [x] Maišos funkcijos įėjimas (angl. input) gali būti bet kokio dydžio simbolių eilutė
-- [x] Maišos funkcijos išėjimas (angl. output) visuomet yra to paties, fiksuoto, dydžio rezultatas\
+- [x] Maišos funkcijos išėjimas (angl. output) visuomet yra to paties, fiksuoto, dydžio rezultatas
 | Input  | Output |
 | ------------- | ------------- |
 | labas  | 6C61626173DBF6E1F4B8DFE3FAE5AAD9EEE9EFBED9F4FCEBABC2E5EEEDA6D1EF  |
