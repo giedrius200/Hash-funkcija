@@ -1,6 +1,5 @@
 # Blockchain
 ## **Išvados**
-___
 - [x] nepriklausomai nuo Input'o, Output'ai visada yra vienodo dydžio, o to paties failo hash'as yra tas pats
 - [x] greitas, efektyvus :tada:
 - [x] Maišos funkcijos įėjimas (angl. input) gali būti bet kokio dydžio simbolių eilutė
