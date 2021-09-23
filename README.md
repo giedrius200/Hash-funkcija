@@ -5,8 +5,8 @@
 - [x] greitas, efektyvus :tada:
 
 **Nepavykę dalykai:**\
-***Vidurinėje pozicijoje pakeitus simbolį hashas liko tas pats***\
-***Nepavyko susigeneruoti 100k simbolių eilučių kur skirtųsi tik vienu simboliu***
+***-Vidurinėje pozicijoje pakeitus simbolį hashas liko tas pats***\
+***-Nepavyko susigeneruoti 100k simbolių eilučių kur skirtųsi tik vienu simboliu***
 ## **Pirma užduotis**
 **Du failai, skirtingas vienas simbolis**\
 ![This is an image](/assets/vienas.png)\
