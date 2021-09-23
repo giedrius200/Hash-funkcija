@@ -1,4 +1,8 @@
 # Blockchain
+## **Išvados**
+- [x] nepriklausomai nuo Input'o, Output'ai visada yra vienodo dydžio, o to paties failo hash'as yra tas pats
+- [x] atsparumas kolizijai
+- [x] greitas, efektyvus :tada:
 
 ## **Pirma užduotis**
 **Du failai, skirtingas vienas simbolis**\
@@ -22,8 +26,3 @@
 ![This is an image](/assets/sutapimai500.png)\
 **Ar sutampa hashai su 25 000 po 1000 simbolių:**\
 ![This is an image](/assets/sutapimai1000.png)
-
-## **Išvados**
-- [x] nepriklausomai nuo Input'o, Output'ai visada yra vienodo dydžio, o to paties failo hash'as yra tas pats
-- [x] atsparumas kolizijai
-- [x] greitas, efektyvus :tada:
