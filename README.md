@@ -39,7 +39,7 @@ bitset<8> rez(bs3 ^= bar);
 
 ![This is an image](/assets/skiriasi1.png)\
 ![This is an image](/assets/skiriasi2.png)\
-- **Tuščias failas**\
+- **Tuščias failas**
 ![This is an image](/assets/tusciasfailas.png)
 
 ## **Antra užduotis**
