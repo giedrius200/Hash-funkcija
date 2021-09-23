@@ -28,8 +28,8 @@ bitset<8> rez(bs3 ^= bar);
 - ***Nepavyko susigeneruoti 100k simbolių eilučių kur skirtųsi tik vienu simboliu***
 
 **Naudoti puslapiai:**
-- ***[String generavimui](http://www.unit-conversion.info/texttools/random-string-generator/)
-- ***[Bitset operations](https://www.cplusplus.com/reference/bitset/bitset/operators/)
+- [***String generavimui](http://www.unit-conversion.info/texttools/random-string-generator/)
+- [***Bitset operations](https://www.cplusplus.com/reference/bitset/bitset/operators/)
 
 ## **Pirma užduotis**
 - **Du failai, skirtingas vienas simbolis**
