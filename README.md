@@ -27,19 +27,19 @@ bitset<8> rez(bs3 ^= bar);
 - ***Vidurinėje pozicijoje pakeitus simbolį hashas liko tas pats***
 - ***Nepavyko susigeneruoti 100k simbolių eilučių kur skirtųsi tik vienu simboliu***
 ## **Pirma užduotis**
-**Du failai, skirtingas vienas simbolis**\
+- **Du failai, skirtingas vienas simbolis**\
 
 ![This is an image](/assets/vienas.png)\
 ![This is an image](/assets/vienas2.png)\
-**>1000 atsitiktinai sugeneruoti failai**\
+- **>1000 atsitiktinai sugeneruoti failai**\
 
 ![This is an image](/assets/simboliai1.png)\
 ![This is an image](/assets/simboliai2.png)\
-**>1000 vidurinėje pozicijoje skirtingi failai**\
+- **>1000 vidurinėje pozicijoje skirtingi failai**\
 
 ![This is an image](/assets/skiriasi1.png)\
 ![This is an image](/assets/skiriasi2.png)\
-**Tuščias failas**\
+- **Tuščias failas**\
 ![This is an image](/assets/tusciasfailas.png)
 
 ## **Antra užduotis**
