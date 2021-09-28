@@ -14,7 +14,7 @@ using namespace std;
 
 template<size_t N>
 std::string bitset_to_string(std::bitset<N> bits) {
-	static_assert(N % CHAR_BIT == 0, L"bitset size must be multiple of char");
+	static_assert(N % CHAR_BIT == 0, L"");
 	std::string toReturn;
 	for (size_t j = 0; j < N / CHAR_BIT; ++j)
 	{
