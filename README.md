@@ -23,6 +23,9 @@ bitset<8> bar(stringas[i]);
 bitset<8> bs3(bs4 <<= 2);
 bitset<8> rez(bs3 ^= bar);
 ```
+**Palyginimas**
+![This is an image](/assets/palygi.png)
+
 **Nepavykę dalykai:**
 - ***Vidurinėje pozicijoje pakeitus simbolį hashas liko tas pats***
 - ***Nepavyko susigeneruoti 100k simbolių eilučių kur skirtųsi tik vienu simboliu***
