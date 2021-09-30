@@ -24,6 +24,7 @@ bitset<8> bs3(bs4 <<= 2);
 bitset<8> rez(bs3 ^= bar);
 ```
 **Palyginimas**
+
 ![This is an image](/assets/palygi.png)
 
 **Nepavykę dalykai:**
